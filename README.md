@@ -1,5 +1,7 @@
 # zookeepercli
 
+**removed some custom build scripts and added go.mod and a simple Makefile**
+
 [![downloads](https://img.shields.io/github/downloads/outbrain/zookeepercli/total.svg)](https://github.com/outbrain/zookeepercli/releases) 
 
 Simple, lightweight, dependable CLI for ZooKeeper
